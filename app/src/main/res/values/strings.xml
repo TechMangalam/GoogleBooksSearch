@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Google Books</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="GOOGLE_API_KEY">AIzaSyCwnHPTHu3VmK_gxGdCS9D1h0oXr_UDGac</string>
+</resources>
